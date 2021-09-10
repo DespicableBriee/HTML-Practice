@@ -1,0 +1,37 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title> Web Developer Survey</title>
+  </head>
+  <body>
+    <h1>Survey for Web Developers</h1>
+    <form action="http//wwww.google.com">
+      <div align="center">
+        <h2>Here's the Survey</h2>
+<br>Enter Your Name:
+        <input type="text"name="UserName" size="35" maxlength="35" value=""></br>
+        <br>
+        Enter Your Department:     <input type="text" name="Dept" size="35" maxlength="35" value=""></br>
+     <br> Tell us a little about yourself:
+    <textarea name"Comments" cols=30 rows=4></textarea></br>
+  <br> Do you like animals?
+  <input type="radio" name="exe" value=1> Yes
+  <input type="radio" name="exe" value=2> No
+  <p>How do you like to read about your favorite topics?</p>
+  <input type="checkbox" name="books">Books
+  <input type="checkbox" name="Internet">Internet
+  <input type="checkbox" name="television"> Television</p>
+  What is your favorite genre of movies?
+  <p><select name="moviepref"><option>
+    <option value=1 selected = "true">Comedy
+<option value=2 >Romance
+<option value=3 >Thriller
+<option value=4 >Horror
+<option value=5 >Biopic
+    </select></p>
+<input type="submit" value="Submit Form">
+</div>
+</form>
+</body>
+</html>
+       
